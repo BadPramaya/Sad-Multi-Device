@@ -5,7 +5,7 @@ import moment from 'moment-timezone'
 
 global.owner = [
   ['+94770611075'],
-  ['+9477061175', 'ʜᴇʟʟ ʙᴏʏ ©️x_ᴘʀᴀᴍᴀʏᴀ_x', true],
+  ['+9477061175', ' ©️x_ᴘʀᴀᴍᴀʏᴀ_x', true],
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -34,11 +34,11 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://violetics.pw': 'beta'
 }
-global.wm = '                「 ʜᴇʟʟ ʙᴏʏ ©️x_ᴘʀᴀᴍᴀʏᴀ_x あ⁩ 」' //Main Watermark
+global.wm = '                「 ©️x_ᴘʀᴀᴍᴀʏᴀ_x あ⁩ 」' //Main Watermark
 
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - ʜᴇʟʟ ʙᴏʏ ©️x_ᴘʀᴀᴍᴀʏᴀ_x˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
-global.wm3 = '⫹⫺ ʜᴇʟʟ ʙᴏʏ ©️x_ᴘʀᴀᴍᴀʏᴀ_x'
+global.wm3 = '⫹⫺ ©️x_ᴘʀᴀᴍᴀʏᴀ_x'
 
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
